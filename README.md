@@ -9,4 +9,5 @@ Stroke Prediction using 3 Classification Models(LR, RF and XGBoost)
 
 – Implemented Logistic Regression, Random Forest & XGBoost models using scikit-learn library to predict
 the likelihood of a stroke in patients; Performed 10-fold cross-validation to prevent the model from overfitting.
+
 – Optimized model through hyperparameter tuning using GridSearchCV & achieved recall of 0.96 on the test dataset
